@@ -2,6 +2,9 @@
 
 Welcome to my LeetCode DSA repository! 👋
 
+<img width="2194" height="642" alt="image" src="https://github.com/user-attachments/assets/2b757563-762f-4ae9-9b54-1124b8a2d68a" />
+
+
 This repository contains my solutions to Data Structures and Algorithms problems solved on LeetCode. The primary goal of this repository is to strengthen problem-solving skills, improve coding efficiency, and prepare for technical interviews at top tech companies.
 
 ## 🎯 Objectives
@@ -51,3 +54,8 @@ This repository serves as a record of my growth as a programmer and problem solv
 If you find this repository useful, consider giving it a ⭐.
 
 Happy Coding! 🚀
+
+
+**<p align="center">
+  <b>Code. Learn. Improve. Repeat. 🔥</b>
+</p>**
