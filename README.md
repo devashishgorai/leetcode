@@ -1,6 +1,13 @@
+<div align="center">
+
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/32755833-9d24-422f-a26f-211f502d26d1" />
+
+
 # 🚀 LeetCode DSA Solutions
 
+
 Welcome to my LeetCode DSA repository! 👋
+</div>
 
 <img width="2194" height="642" alt="image" src="https://github.com/user-attachments/assets/2b757563-762f-4ae9-9b54-1124b8a2d68a" />
 
