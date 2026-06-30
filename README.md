@@ -88,6 +88,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0088-merge-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -96,4 +97,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/devashishgorai/leetcode/tree/master/0409-longest-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
