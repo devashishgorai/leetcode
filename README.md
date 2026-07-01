@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/32755833-9d24-422f-a26f-211f502d26d1" />
+
 
 
 # 🚀 LeetCode DSA Solutions
