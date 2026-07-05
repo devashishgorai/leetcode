@@ -73,6 +73,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devashishgorai/leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/devashishgorai/leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/devashishgorai/leetcode/tree/master/0409-longest-palindrome) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Math
@@ -95,6 +96,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devashishgorai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/devashishgorai/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devashishgorai/leetcode/tree/master/0137-single-number-ii) |
+| [0217-contains-duplicate](https://github.com/devashishgorai/leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/devashishgorai/leetcode/tree/master/0260-single-number-iii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Trie
@@ -115,6 +117,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/devashishgorai/leetcode/tree/master/0217-contains-duplicate) |
 ## String Matching
 |  |
 | ------- |
