@@ -80,6 +80,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devashishgorai/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/devashishgorai/leetcode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -132,4 +133,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devashishgorai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/devashishgorai/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
