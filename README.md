@@ -81,6 +81,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devashishgorai/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/devashishgorai/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devashishgorai/leetcode/tree/master/0069-sqrtx) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## String
@@ -90,6 +91,7 @@ Happy Coding! 🚀
 | [0014-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devashishgorai/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/devashishgorai/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/devashishgorai/leetcode/tree/master/0067-add-binary) |
 | [0409-longest-palindrome](https://github.com/devashishgorai/leetcode/tree/master/0409-longest-palindrome) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Array
@@ -136,6 +138,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/devashishgorai/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/devashishgorai/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devashishgorai/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/devashishgorai/leetcode/tree/master/0260-single-number-iii) |
@@ -159,4 +162,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/devashishgorai/leetcode/tree/master/0997-find-the-town-judge) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/devashishgorai/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
