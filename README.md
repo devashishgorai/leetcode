@@ -75,6 +75,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/devashishgorai/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/devashishgorai/leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/devashishgorai/leetcode/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/devashishgorai/leetcode/tree/master/0997-find-the-town-judge) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Math
@@ -105,6 +106,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/devashishgorai/leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/devashishgorai/leetcode/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/devashishgorai/leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/devashishgorai/leetcode/tree/master/0997-find-the-town-judge) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devashishgorai/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
