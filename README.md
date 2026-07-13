@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/devashishgorai/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devashishgorai/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/devashishgorai/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/devashishgorai/leetcode/tree/master/0258-add-digits) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## String
 |  |
@@ -171,4 +172,9 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devashishgorai/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/devashishgorai/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/devashishgorai/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
