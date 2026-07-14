@@ -75,6 +75,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/devashishgorai/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/devashishgorai/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/devashishgorai/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/devashishgorai/leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/devashishgorai/leetcode/tree/master/0997-find-the-town-judge) |
@@ -87,6 +88,7 @@ Happy Coding! 🚀
 | [0069-sqrtx](https://github.com/devashishgorai/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/devashishgorai/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/devashishgorai/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## String
 |  |
@@ -108,6 +110,7 @@ Happy Coding! 🚀
 | [0137-single-number-ii](https://github.com/devashishgorai/leetcode/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/devashishgorai/leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/devashishgorai/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/devashishgorai/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0997-find-the-town-judge](https://github.com/devashishgorai/leetcode/tree/master/0997-find-the-town-judge) |
@@ -134,6 +137,7 @@ Happy Coding! 🚀
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/devashishgorai/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/devashishgorai/leetcode/tree/master/0414-third-maximum-number) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devashishgorai/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -148,6 +152,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/devashishgorai/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devashishgorai/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/devashishgorai/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +161,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/devashishgorai/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
 ## Geometry
 |  |
 | ------- |
