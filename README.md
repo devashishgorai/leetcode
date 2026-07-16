@@ -122,6 +122,7 @@ Happy Coding! 🚀
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devashishgorai/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/devashishgorai/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/devashishgorai/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Trie
 |  |
@@ -176,6 +177,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/devashishgorai/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Graph Theory
 |  |
 | ------- |
