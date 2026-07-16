@@ -79,6 +79,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/devashishgorai/leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/devashishgorai/leetcode/tree/master/0575-distribute-candies) |
 | [0997-find-the-town-judge](https://github.com/devashishgorai/leetcode/tree/master/0997-find-the-town-judge) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/devashishgorai/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -116,6 +117,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/devashishgorai/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/devashishgorai/leetcode/tree/master/0575-distribute-candies) |
 | [0997-find-the-town-judge](https://github.com/devashishgorai/leetcode/tree/master/0997-find-the-town-judge) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devashishgorai/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
