@@ -104,6 +104,7 @@ Happy Coding! 🚀
 | [0058-length-of-last-word](https://github.com/devashishgorai/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/devashishgorai/leetcode/tree/master/0067-add-binary) |
 | [0409-longest-palindrome](https://github.com/devashishgorai/leetcode/tree/master/0409-longest-palindrome) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/devashishgorai/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Array
 |  |
@@ -136,6 +137,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/devashishgorai/leetcode/tree/master/0409-longest-palindrome) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/devashishgorai/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,4 +207,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/devashishgorai/leetcode/tree/master/0190-reverse-bits) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/devashishgorai/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/devashishgorai/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
