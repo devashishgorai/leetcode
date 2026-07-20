@@ -123,6 +123,7 @@ Happy Coding! 🚀
 | [0575-distribute-candies](https://github.com/devashishgorai/leetcode/tree/master/0575-distribute-candies) |
 | [0997-find-the-town-judge](https://github.com/devashishgorai/leetcode/tree/master/0997-find-the-town-judge) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1260-shift-2d-grid](https://github.com/devashishgorai/leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devashishgorai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devashishgorai/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -183,6 +184,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1260-shift-2d-grid](https://github.com/devashishgorai/leetcode/tree/master/1260-shift-2d-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/devashishgorai/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Graph Theory
 |  |
@@ -193,6 +195,7 @@ Happy Coding! 🚀
 | ------- |
 | [0067-add-binary](https://github.com/devashishgorai/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/devashishgorai/leetcode/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/devashishgorai/leetcode/tree/master/1260-shift-2d-grid) |
 ## Number Theory
 |  |
 | ------- |
