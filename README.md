@@ -73,6 +73,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devashishgorai/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/devashishgorai/leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/devashishgorai/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/devashishgorai/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/devashishgorai/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -101,6 +102,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/devashishgorai/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devashishgorai/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/devashishgorai/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/devashishgorai/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/devashishgorai/leetcode/tree/master/0067-add-binary) |
 | [0409-longest-palindrome](https://github.com/devashishgorai/leetcode/tree/master/0409-longest-palindrome) |
@@ -112,6 +114,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/devashishgorai/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devashishgorai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/devashishgorai/leetcode/tree/master/0136-single-number) |
@@ -151,6 +154,7 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/devashishgorai/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/devashishgorai/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
