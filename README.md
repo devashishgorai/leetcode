@@ -95,6 +95,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devashishgorai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/devashishgorai/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devashishgorai/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -134,6 +135,7 @@ Happy Coding! 🚀
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/devashishgorai/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/devashishgorai/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/devashishgorai/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Trie
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Happy Coding! 🚀
 | [0190-reverse-bits](https://github.com/devashishgorai/leetcode/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/devashishgorai/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/devashishgorai/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
 |  |
 | ------- |
