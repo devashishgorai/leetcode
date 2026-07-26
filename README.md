@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | [0202-happy-number](https://github.com/devashishgorai/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/devashishgorai/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/devashishgorai/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devashishgorai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devashishgorai/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -131,6 +132,7 @@ Happy Coding! 🚀
 | [0414-third-maximum-number](https://github.com/devashishgorai/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/devashishgorai/leetcode/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/devashishgorai/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0997-find-the-town-judge](https://github.com/devashishgorai/leetcode/tree/master/0997-find-the-town-judge) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/devashishgorai/leetcode/tree/master/1260-shift-2d-grid) |
@@ -166,6 +168,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/devashishgorai/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/devashishgorai/leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/devashishgorai/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devashishgorai/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/devashishgorai/leetcode/tree/master/3536-maximum-product-of-two-digits) |
