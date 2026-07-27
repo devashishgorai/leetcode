@@ -136,6 +136,7 @@ Happy Coding! 🚀
 | [0997-find-the-town-judge](https://github.com/devashishgorai/leetcode/tree/master/0997-find-the-town-judge) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/devashishgorai/leetcode/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devashishgorai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devashishgorai/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -170,6 +171,7 @@ Happy Coding! 🚀
 | [0414-third-maximum-number](https://github.com/devashishgorai/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devashishgorai/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devashishgorai/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/devashishgorai/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String Matching
@@ -244,4 +246,8 @@ Happy Coding! 🚀
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devashishgorai/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devashishgorai/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
