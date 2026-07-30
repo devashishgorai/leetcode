@@ -268,4 +268,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devashishgorai/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/devashishgorai/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/devashishgorai/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
