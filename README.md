@@ -126,6 +126,7 @@ Happy Coding! 🚀
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/devashishgorai/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/devashishgorai/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/devashishgorai/leetcode/tree/master/0118-pascals-triangle) |
@@ -208,6 +209,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/devashishgorai/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/devashishgorai/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
 ## Geometry
