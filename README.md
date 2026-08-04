@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/devashishgorai/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devashishgorai/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/devashishgorai/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Happy Coding! 🚀
 | [3471-find-the-largest-almost-missing-integer](https://github.com/devashishgorai/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devashishgorai/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devashishgorai/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/devashishgorai/leetcode/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Happy Coding! 🚀
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devashishgorai/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devashishgorai/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/devashishgorai/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/devashishgorai/leetcode/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
 | ------- |
