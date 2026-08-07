@@ -304,9 +304,19 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/devashishgorai/leetcode/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/devashishgorai/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/devashishgorai/leetcode/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/devashishgorai/leetcode/tree/master/3310-remove-methods-from-project) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/devashishgorai/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/devashishgorai/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
