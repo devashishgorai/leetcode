@@ -101,6 +101,7 @@ Happy Coding! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/devashishgorai/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/devashishgorai/leetcode/tree/master/0877-stone-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1140-stone-game-ii](https://github.com/devashishgorai/leetcode/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devashishgorai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devashishgorai/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/devashishgorai/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -152,6 +153,7 @@ Happy Coding! 🚀
 | [0877-stone-game](https://github.com/devashishgorai/leetcode/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/devashishgorai/leetcode/tree/master/0997-find-the-town-judge) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1140-stone-game-ii](https://github.com/devashishgorai/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/devashishgorai/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devashishgorai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -221,6 +223,7 @@ Happy Coding! 🚀
 | [0118-pascals-triangle](https://github.com/devashishgorai/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devashishgorai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/devashishgorai/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/devashishgorai/leetcode/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devashishgorai/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -305,6 +308,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/devashishgorai/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/devashishgorai/leetcode/tree/master/1140-stone-game-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -323,4 +327,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/devashishgorai/leetcode/tree/master/0100-same-tree) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/devashishgorai/leetcode/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/devashishgorai/leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/devashishgorai/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
