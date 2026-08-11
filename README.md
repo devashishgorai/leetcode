@@ -82,6 +82,7 @@ Happy Coding! 🚀
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/devashishgorai/leetcode/tree/master/0575-distribute-candies) |
 | [0997-find-the-town-judge](https://github.com/devashishgorai/leetcode/tree/master/0997-find-the-town-judge) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devashishgorai/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devashishgorai/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/devashishgorai/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -159,6 +160,7 @@ Happy Coding! 🚀
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devashishgorai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devashishgorai/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devashishgorai/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/devashishgorai/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/devashishgorai/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -199,6 +201,7 @@ Happy Coding! 🚀
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devashishgorai/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devashishgorai/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devashishgorai/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devashishgorai/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/devashishgorai/leetcode/tree/master/3536-maximum-product-of-two-digits) |
