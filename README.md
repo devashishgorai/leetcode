@@ -162,6 +162,7 @@ Happy Coding! 🚀
 | [1260-shift-2d-grid](https://github.com/devashishgorai/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devashishgorai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2293-min-max-game](https://github.com/devashishgorai/leetcode/tree/master/2293-min-max-game) |
 | [2607-make-k-subarray-sums-equal](https://github.com/devashishgorai/leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devashishgorai/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devashishgorai/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -264,6 +265,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/devashishgorai/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/devashishgorai/leetcode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/devashishgorai/leetcode/tree/master/1260-shift-2d-grid) |
+| [2293-min-max-game](https://github.com/devashishgorai/leetcode/tree/master/2293-min-max-game) |
 ## Number Theory
 |  |
 | ------- |
