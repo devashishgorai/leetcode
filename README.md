@@ -97,6 +97,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/devashishgorai/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/devashishgorai/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devashishgorai/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/devashishgorai/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/devashishgorai/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devashishgorai/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/devashishgorai/leetcode/tree/master/0258-add-digits) |
@@ -235,6 +236,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/devashishgorai/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/devashishgorai/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devashishgorai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/devashishgorai/leetcode/tree/master/0877-stone-game) |
@@ -358,4 +360,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/devashishgorai/leetcode/tree/master/1140-stone-game-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/devashishgorai/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
