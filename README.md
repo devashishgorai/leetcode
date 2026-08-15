@@ -142,6 +142,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/devashishgorai/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/devashishgorai/leetcode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/devashishgorai/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/devashishgorai/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devashishgorai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -227,6 +228,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devashishgorai/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/devashishgorai/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/devashishgorai/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devashishgorai/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/devashishgorai/leetcode/tree/master/0190-reverse-bits) |
@@ -366,4 +368,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/devashishgorai/leetcode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/devashishgorai/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
