@@ -107,6 +107,7 @@ Happy Coding! 🚀
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1140-stone-game-ii](https://github.com/devashishgorai/leetcode/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devashishgorai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/devashishgorai/leetcode/tree/master/2029-stone-game-ix) |
 | [2607-make-k-subarray-sums-equal](https://github.com/devashishgorai/leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devashishgorai/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/devashishgorai/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -165,6 +166,7 @@ Happy Coding! 🚀
 | [1260-shift-2d-grid](https://github.com/devashishgorai/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devashishgorai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/devashishgorai/leetcode/tree/master/2029-stone-game-ix) |
 | [2293-min-max-game](https://github.com/devashishgorai/leetcode/tree/master/2293-min-max-game) |
 | [2607-make-k-subarray-sums-equal](https://github.com/devashishgorai/leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devashishgorai/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -187,6 +189,7 @@ Happy Coding! 🚀
 | ------- |
 | [0409-longest-palindrome](https://github.com/devashishgorai/leetcode/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devashishgorai/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/devashishgorai/leetcode/tree/master/2029-stone-game-ix) |
 | [2607-make-k-subarray-sums-equal](https://github.com/devashishgorai/leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devashishgorai/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devashishgorai/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -311,6 +314,7 @@ Happy Coding! 🚀
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/devashishgorai/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devashishgorai/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devashishgorai/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devashishgorai/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -334,6 +338,7 @@ Happy Coding! 🚀
 | ------- |
 | [0877-stone-game](https://github.com/devashishgorai/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/devashishgorai/leetcode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/devashishgorai/leetcode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -356,6 +361,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/devashishgorai/leetcode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/devashishgorai/leetcode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -364,6 +370,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/devashishgorai/leetcode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/devashishgorai/leetcode/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
 | ------- |
@@ -372,4 +379,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0078-subsets](https://github.com/devashishgorai/leetcode/tree/master/0078-subsets) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/devashishgorai/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
