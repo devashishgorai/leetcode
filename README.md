@@ -141,6 +141,7 @@ Happy Coding! 🚀
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/devashishgorai/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/devashishgorai/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/devashishgorai/leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/devashishgorai/leetcode/tree/master/0078-subsets) |
@@ -199,6 +200,7 @@ Happy Coding! 🚀
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devashishgorai/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/devashishgorai/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/devashishgorai/leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/devashishgorai/leetcode/tree/master/0189-rotate-array) |
