@@ -144,6 +144,7 @@ Happy Coding! 🚀
 | [0031-next-permutation](https://github.com/devashishgorai/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/devashishgorai/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/devashishgorai/leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/devashishgorai/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/devashishgorai/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/devashishgorai/leetcode/tree/master/0118-pascals-triangle) |
@@ -256,6 +257,7 @@ Happy Coding! 🚀
 | ------- |
 | [0035-search-insert-position](https://github.com/devashishgorai/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/devashishgorai/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/devashishgorai/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/devashishgorai/leetcode/tree/master/0268-missing-number) |
 ## Geometry
 |  |
@@ -264,6 +266,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/devashishgorai/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/devashishgorai/leetcode/tree/master/1260-shift-2d-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/devashishgorai/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
