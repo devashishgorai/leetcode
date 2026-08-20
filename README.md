@@ -307,6 +307,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/devashishgorai/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devashishgorai/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -339,6 +340,7 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/devashishgorai/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/devashishgorai/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/devashishgorai/leetcode/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/devashishgorai/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -354,6 +356,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/devashishgorai/leetcode/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/devashishgorai/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [3310-remove-methods-from-project](https://github.com/devashishgorai/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -364,10 +367,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/devashishgorai/leetcode/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/devashishgorai/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/devashishgorai/leetcode/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/devashishgorai/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Minimax
 |  |
 | ------- |
