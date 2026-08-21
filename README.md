@@ -73,6 +73,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devashishgorai/leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/devashishgorai/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/devashishgorai/leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/devashishgorai/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/devashishgorai/leetcode/tree/master/0217-contains-duplicate) |
@@ -144,6 +145,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devashishgorai/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/devashishgorai/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/devashishgorai/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/devashishgorai/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/devashishgorai/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/devashishgorai/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/devashishgorai/leetcode/tree/master/0078-subsets) |
@@ -271,6 +273,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/devashishgorai/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/devashishgorai/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/devashishgorai/leetcode/tree/master/1260-shift-2d-grid) |
