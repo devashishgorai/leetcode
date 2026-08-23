@@ -108,6 +108,7 @@ Happy Coding! 🚀
 | [0877-stone-game](https://github.com/devashishgorai/leetcode/tree/master/0877-stone-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/devashishgorai/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1140-stone-game-ii](https://github.com/devashishgorai/leetcode/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/devashishgorai/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devashishgorai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/devashishgorai/leetcode/tree/master/2029-stone-game-ix) |
 | [2607-make-k-subarray-sums-equal](https://github.com/devashishgorai/leetcode/tree/master/2607-make-k-subarray-sums-equal) |
@@ -131,6 +132,7 @@ Happy Coding! 🚀
 | [0409-longest-palindrome](https://github.com/devashishgorai/leetcode/tree/master/0409-longest-palindrome) |
 | [0917-reverse-only-letters](https://github.com/devashishgorai/leetcode/tree/master/0917-reverse-only-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devashishgorai/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/devashishgorai/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devashishgorai/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devashishgorai/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devashishgorai/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -197,6 +199,7 @@ Happy Coding! 🚀
 | [0409-longest-palindrome](https://github.com/devashishgorai/leetcode/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devashishgorai/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/devashishgorai/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/devashishgorai/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/devashishgorai/leetcode/tree/master/2029-stone-game-ix) |
 | [2607-make-k-subarray-sums-equal](https://github.com/devashishgorai/leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devashishgorai/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -354,6 +357,7 @@ Happy Coding! 🚀
 | ------- |
 | [0877-stone-game](https://github.com/devashishgorai/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/devashishgorai/leetcode/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/devashishgorai/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/devashishgorai/leetcode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
