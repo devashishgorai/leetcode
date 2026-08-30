@@ -177,6 +177,7 @@ Happy Coding! 🚀
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devashishgorai/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devashishgorai/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/devashishgorai/leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/devashishgorai/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2293-min-max-game](https://github.com/devashishgorai/leetcode/tree/master/2293-min-max-game) |
 | [2607-make-k-subarray-sums-equal](https://github.com/devashishgorai/leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [2733-neither-minimum-nor-maximum](https://github.com/devashishgorai/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -204,6 +205,7 @@ Happy Coding! 🚀
 | [1386-cinema-seat-allocation](https://github.com/devashishgorai/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/devashishgorai/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/devashishgorai/leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/devashishgorai/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2607-make-k-subarray-sums-equal](https://github.com/devashishgorai/leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devashishgorai/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devashishgorai/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
